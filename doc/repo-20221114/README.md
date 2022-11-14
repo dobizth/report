@@ -15,18 +15,6 @@
 - จัดประชุมสัมมนาเชิงปฏิบัติการเพื่อรวบรวมความคิดเห็น (5.1.4)
     [ดูเอกสาร](/doc/doc0-20220920/02219_InceptionReport_Chapter_4_V3.pdf)
 
-- สารบรรณ
-    [ดูเอกสาร](/doc/doc0-20220920/02219_TableOfContent.pdf)
-
-- ภาคผนวก ก
-    [ดูเอกสาร](/doc/doc0-20220920/02219_InceptionReport_Appendix_1_V3.pdf)
-
-- ภาคผยวก ข
-    [ดูเอกสาร](/doc/doc0-20220920/02219_InceptionReport_Appendix_2_V3.pdf)
-
-- ภาคผนวก ค
-    [ดูเอกสาร](/doc/doc0-20220920/02219_InceptionReport_Appendix_3_V3.pdf)
-
 
 ##### ส่วนที่ 2
 
