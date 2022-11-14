@@ -16,7 +16,9 @@
 
 ==highlight==
 
-<code> <i>This text will be italic</i> <b>this text will be bold</b> </code>
+<code> <i>เน้นไฮไลท์</i> <b>เน้นไฮไลท์</b> </code>
+
+<pre><b>เน้นไฮไลท์</b></pre>
 
 - แนวทางการให้บริการที่ควรเป็น (Service Operation Model) (5.2.2)
 - ออกแบบขั้นตอนการให้บริการผ่านระบบดิจิทัลที่เป็นมาตรฐาน (5.2.3)
