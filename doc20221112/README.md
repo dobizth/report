@@ -7,7 +7,8 @@
 
 #### รายงานส่งมอ งวดที่ 2
 - สถาปัตยกรรมเทคโนโลยีสารสนเทศทั้งหมด (Enterprise Architecture) (5.2.1)
-[ดูเอกสาร](doc20221112/02219_InterimReport_Chapter_1_V9)
+
+[ดูเอกสาร](/doc20221112/02219_InterimReport_Chapter_1_V9)
 
 - แนวทางการให้บริการที่ควรเป็น (Service Operation Model) (5.2.2)
 
