@@ -1,4 +1,4 @@
-#### รายงานส่งมอ งวดที่ 2
+#### รายงานความคืบหน้า ครั้งที่ 1
 
 - สถาปัตยกรรมเทคโนโลยีสารสนเทศทั้งหมด (Enterprise Architecture) (5.2.1)
     [ดูเอกสาร](https://dga.tueng.org/deli2v1/02219_InterimReport_Chapter_1_V5.pdf)
