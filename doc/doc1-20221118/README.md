@@ -5,11 +5,11 @@
 - [![new!](/doc/res/new2.png) สถาปัตยกรรมเทคโนโลยีสารสนเทศทั้งหมด (Enterprise Architecture) (5.2.1)](/doc/doc1-20221118/DoBiz-Interim1_Chp_1_20221114.pdf)
 
 	จำนวน 10 หน้า
-	<code> <b>ปรับภาพและคำอธิบาย ภาพที่ควรเป็น ภาพที่ 4 หน้า 5 </b> </code>
+	<code> <b>ปรับภาพและคำอธิบาย ภาพที่ควรเป็น ภาพที่ 4 หน้า 6-7 </b> </code>
 
 
-- แนวทางการให้บริการที่ควรเป็น (Service Operation Model) (5.2.2)
-    [ดูเอกสาร](/doc/doc1-20221118/DoBiz-Interim1_Chp_2_20221114.pdf)
+- [![new!](/doc/res/new2.png) แนวทางการให้บริการที่ควรเป็น (Service Operation Model) (5.2.2)
+    (/doc/doc1-20221118/DoBiz-Interim1_Chp_2_20221114.pdf)
 
 	จำนวน 8 หน้า
 	ปรับภาพ ปรับคำอธิบาย เพิ่มเติมความเข้าใจเกี่ยวกับ Federated Catalog
