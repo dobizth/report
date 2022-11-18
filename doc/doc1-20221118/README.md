@@ -2,7 +2,7 @@
 
 ##### ปรับแก้ ณ วันที่ 18 พ.ย.2565
 
-- ![new!](/doc/res/new1.png) สถาปัตยกรรมเทคโนโลยีสารสนเทศทั้งหมด (Enterprise Architecture) (5.2.1)
+- ![new!](/doc/res/new2.png) สถาปัตยกรรมเทคโนโลยีสารสนเทศทั้งหมด (Enterprise Architecture) (5.2.1)
     [ดูเอกสาร](/doc/doc1-20221118/DoBiz-Interim1_Chp_1_20221114.pdf)
 
 	จำนวน 10 หน้า
