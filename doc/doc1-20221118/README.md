@@ -8,8 +8,7 @@
 	<code> <b>ปรับภาพและคำอธิบาย ภาพที่ควรเป็น ภาพที่ 4 หน้า 6-7 </b> </code>
 
 
-- [![new!](/doc/res/new2.png) แนวทางการให้บริการที่ควรเป็น (Service Operation Model) (5.2.2)
-    (/doc/doc1-20221118/DoBiz-Interim1_Chp_2_20221114.pdf)
+- [![new!](/doc/res/new2.png) แนวทางการให้บริการที่ควรเป็น (Service Operation Model) (5.2.2)(/doc/doc1-20221118/DoBiz-Interim1_Chp_2_20221114.pdf)
 
 	จำนวน 8 หน้า
 	ปรับภาพ ปรับคำอธิบาย เพิ่มเติมความเข้าใจเกี่ยวกับ Federated Catalog
