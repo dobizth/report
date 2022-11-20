@@ -9,7 +9,7 @@
 
 
 - [![new!](/doc/res/new2.png) แนวทางการให้บริการที่ควรเป็น (Service Operation Model) (5.2.2)
-    ](/doc/doc1-20221118/DoBiz-Interim1_Chp_2_20221114.pdf)
+    ](/doc/doc1-20221120/DoBiz-Interim1_Chp_2_20221114.pdf)
 
 	จำนวน 12 หน้า
 	<code> <b>
